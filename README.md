@@ -10,7 +10,7 @@ This project is built using a powerful and contemporary front-end stack, ensurin
 
 This site is deployed using **Netlify's Continuous Deployment (CD)** pipeline. Any updates pushed to the `main` branch are automatically built and published.
 
-**[View the Live Portfolio Here](https://www.google.com/search?q=YOUR_NETLIFY_URL_HERE)**
+**[View the Live Portfolio Here][(https://www.google.com/search?q=YOUR_NETLIFY_URL_HERE)**](https://app.netlify.com/teams/gowtham5753/projects)
 *(Remember to replace this placeholder with the actual URL after your first Netlify deployment\!)*
 
 -----
